@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prova_bia",
+            "request": "launch",
+            "mainClass": "Prova_bia"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prova",
+            "request": "launch",
+            "mainClass": "Prova"
+        }
+    ]
+}
